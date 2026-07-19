@@ -1,0 +1,65 @@
+*,
+HTML {
+    margin: 0;
+    padding: 3px;
+}
+body {
+    background-color: rgb(0, 0, 0)
+}
+
+.container-navbar {
+color: rgb(255, 255, 255);
+} 
+
+.judul {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+}
+.love-me {
+display: flex;
+width: 100%;
+height: 20px;
+color:  rgb(255, 0, 0);
+justify-content: center;
+align-items: center;
+}
+
+.uasu {
+    font-size: 25px;
+    width: 4.73%;
+    padding: 10px;
+}
+
+.gambar1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%
+}
+
+.biji {
+    width: 25%;
+    padding: 0px;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.love {
+    color: rgb(255, 0, 0);
+}
+
+.love1 {
+    color: rgb(255, 0, 0);
+    font-size: 25px;
+    
+}
+
+.love2 {
+    color: rgb(255, 0, 0);
+    font-size: 25px;
+    width: 12%;
+}
